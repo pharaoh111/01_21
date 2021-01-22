@@ -35,20 +35,8 @@ end
 #------------------------------------------------------------------------------------------------------------------------#
 widgets = Hash[array1.zip(array2)]
 
-
-
-
-
 puts widgets
 
-
-
-
 #puts finalarray = Hash[array1.zip(array2.map {|i| i.split /, /})]
-
-
-
-
-
 
  #END.
